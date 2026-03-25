@@ -53,8 +53,9 @@ ylabel('Magnitude ');
 title(' Frequency Response of Butterworth IIR LPF');
 ```
 # CALCULATION:
-![Butterworth manual cal](https://github.com/user-attachments/assets/695d926c-d3e4-464a-a0fe-10633d1af892)
-![Butterworth manual cal 2](https://github.com/user-attachments/assets/a0073e99-a43d-4c16-a38e-ee5d1c5c4577)
+<img width="1080" height="1440" alt="image" src="https://github.com/user-attachments/assets/239f1d10-fddd-46d3-800e-50c14a72150f" />
+
+<img width="1080" height="1440" alt="image" src="https://github.com/user-attachments/assets/890ef421-bddb-430c-a8eb-887f0f4792ce" />
 
 
 # OUTPUT: 
